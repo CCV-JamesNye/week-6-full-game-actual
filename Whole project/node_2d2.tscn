@@ -343,7 +343,7 @@ shape = SubResource("RectangleShape2D_2g8ip")
 sprite_frames = SubResource("SpriteFrames_ejjp7")
 animation = &"jump"
 autoplay = "idle"
-frame_progress = 0.092923924
+frame_progress = 0.70865923
 
 [node name="ground" type="StaticBody2D" parent="." unique_id=1036207975]
 position = Vector2(153, 150)
